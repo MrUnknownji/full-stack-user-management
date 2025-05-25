@@ -1,0 +1,7 @@
+{
+  // Disable Language Server Code Completions as you type
+  "show_completions_on_input": false,
+
+  // Disable Edit Predictions (AI/Copilot suggestions)
+  "show_edit_predictions": false
+}
