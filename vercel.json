@@ -27,6 +27,5 @@
     }
   ],
   "installCommand": "npm install --prefix frontend && npm install --prefix backend",
-  "buildCommand": "npm run build --prefix frontend",
-  "ignore": ["**/node_modules", "**/.git"]
+  "buildCommand": "npm run build --prefix frontend"
 }
