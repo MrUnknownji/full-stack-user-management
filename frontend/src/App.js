@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import dotenv from "dotenv";
 
 dotenv.config();
-const API_URL = process.env.API_URL || "http://localhost:5000";
+const API_URL = process.env.REACT_APP_API_URL || "http://localhost:5000";
 const USERS_PER_PAGE = 5;
 
 function App() {
